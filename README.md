@@ -1,3 +1,8 @@
+This is not our plugin:
+https://github.com/Xericore/EasyCarts
+
+
+
 <img src="http://www.petricevic.net/wp-content/uploads/2015/05/EasyCarts_Logo_V2.png" alt="EasyCarts Logo">
 <br><b>Travel quickly and easily with minecarts!</b>
 
